@@ -13,10 +13,10 @@ class User {
 }
 
 const User currentUser = User(
-  username: 'Marcus Ng',
+  username: 'MontageGuy911',
   profileImageUrl:
-      'https://yt3.ggpht.com/ytc/AAUvwniE2k5PgFu9yr4sBVEs9jdpdILdMc7ruiPw59DpS0k=s88-c-k-c0x00ffffff-no-rj',
-  subscribers: '100K',
+      'assets/channel_logo.png',
+  subscribers: '89K',
 );
 
 class Video {
@@ -47,10 +47,10 @@ final List<Video> videos = [
   Video(
     id: 'x606y4QWrxo',
     author: currentUser,
-    title: 'Flutter Clubhouse Clone UI Tutorial | Apps From Scratch',
-    thumbnailUrl: 'https://i.ytimg.com/vi/x606y4QWrxo/0.jpg',
-    duration: '8:20',
-    timestamp: DateTime(2021, 3, 20),
+    title: 'Haule Haule Rank Pull😵| Valorant comedy video | Hindi | Valorant funny moments',
+    thumbnailUrl: 'assets/final.jpg',
+    duration: '4:20',
+    timestamp: DateTime(2023 , 9, 30),
     viewCount: '10K',
     likes: '958',
     dislikes: '4',
@@ -59,10 +59,10 @@ final List<Video> videos = [
     author: currentUser,
     id: 'vrPk6LB9bjo',
     title:
-        'Build Flutter Apps Fast with Riverpod, Firebase, Hooks, and Freezed Architecture',
-    thumbnailUrl: 'https://i.ytimg.com/vi/vrPk6LB9bjo/0.jpg',
-    duration: '22:06',
-    timestamp: DateTime(2021, 2, 26),
+        'Cinemativ Valorant Edit | Step Back 🤬 | Valorant montage',
+    thumbnailUrl: 'assets/step.png',
+    duration: '00:40',
+    timestamp: DateTime(2023, 9, 22),
     viewCount: '8K',
     likes: '485',
     dislikes: '8',
@@ -70,10 +70,10 @@ final List<Video> videos = [
   Video(
     id: 'ilX5hnH8XoI',
     author: currentUser,
-    title: 'Flutter Instagram Stories',
-    thumbnailUrl: 'https://i.ytimg.com/vi/ilX5hnH8XoI/0.jpg',
-    duration: '10:53',
-    timestamp: DateTime(2020, 7, 12),
+    title: 'Journey to ascendent 🤡| Valorant comedy video | Hindi | Valorant funny moments',
+    thumbnailUrl: 'assets/ascendent.png',
+    duration: '03:41',
+    timestamp: DateTime(2023, 9, 12),
     viewCount: '18K',
     likes: '1k',
     dislikes: '4',
@@ -84,10 +84,10 @@ final List<Video> suggestedVideos = [
   Video(
     id: 'rJKN_880b-M',
     author: currentUser,
-    title: 'Flutter Netflix Clone Responsive UI Tutorial | Web and Mobile',
-    thumbnailUrl: 'https://i.ytimg.com/vi/rJKN_880b-M/0.jpg',
+    title: 'Finally rank down hogyi 🤓| Valorant comedy video | Hindi | Valorant funny moments',
+    thumbnailUrl: 'assets/iron.png',
     duration: '1:13:15',
-    timestamp: DateTime(2020, 8, 22),
+    timestamp: DateTime(2023, 9, 2),
     viewCount: '32K',
     likes: '1.9k',
     dislikes: '7',
@@ -95,10 +95,10 @@ final List<Video> suggestedVideos = [
   Video(
     id: 'HvLb5gdUfDE',
     author: currentUser,
-    title: 'Flutter Facebook Clone Responsive UI Tutorial | Web and Mobile',
-    thumbnailUrl: 'https://i.ytimg.com/vi/HvLb5gdUfDE/0.jpg',
-    duration: '1:52:12',
-    timestamp: DateTime(2020, 8, 7),
+    title: 'Uprank hoga bhi | Valorant comedy video | Hindi | Valorant funny moments',
+    thumbnailUrl: 'assets/uprank.png',
+    duration: '07:20',
+    timestamp: DateTime(2023, 8, 7),
     viewCount: '190K',
     likes: '9.3K',
     dislikes: '45',
@@ -106,10 +106,10 @@ final List<Video> suggestedVideos = [
   Video(
     id: 'h-igXZCCrrc',
     author: currentUser,
-    title: 'Flutter Chat UI Tutorial | Apps From Scratch',
-    thumbnailUrl: 'https://i.ytimg.com/vi/h-igXZCCrrc/0.jpg',
-    duration: '1:03:58',
-    timestamp: DateTime(2019, 10, 17),
+    title: 'Finally racist ka tag hat gya | Valorant comedy video | Hindi | Valorant funny moments',
+    thumbnailUrl: 'assets/racist.png',
+    duration: '09:35',
+    timestamp: DateTime(2023, 7, 17),
     viewCount: '358K',
     likes: '20k',
     dislikes: '85',
